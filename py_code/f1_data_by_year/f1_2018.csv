@@ -1,0 +1,401 @@
+Year,Round,Place,Driver,Team,Result,Start_Position,Q,Sprint,P1,P2,P3
+2018,2,Sakhir,VET,Ferrari,1,1,1,0,4,2,5
+2018,2,Sakhir,BOT,Mercedes,2,3,3,0,2,3,6
+2018,2,Sakhir,HAM,Mercedes,3,9,4,0,5,4,4
+2018,2,Sakhir,GAS,Toro Rosso,4,5,6,0,7,8,9
+2018,2,Sakhir,MAG,Haas F1 Team,5,6,7,0,9,15,15
+2018,2,Sakhir,HUL,Renault,6,7,8,0,10,7,7
+2018,2,Sakhir,ALO,McLaren,7,13,13,0,11,9,10
+2018,2,Sakhir,VAN,McLaren,8,14,14,0,13,10,17
+2018,2,Sakhir,ERI,Sauber,9,17,17,0,17,19,16
+2018,2,Sakhir,OCO,Force India,10,8,9,0,19,13,13
+2018,2,Sakhir,SAI,Renault,11,10,10,0,8,12,8
+2018,2,Sakhir,LEC,Sauber,12,19,19,0,12,16,18
+2018,2,Sakhir,GRO,Haas F1 Team,13,16,16,0,6,11,12
+2018,2,Sakhir,STR,Williams,14,20,20,0,14,17,20
+2018,2,Sakhir,SIR,Williams,15,18,18,0,15,18,19
+2018,2,Sakhir,PER,Force India,16,12,12,0,18,14,14
+2018,2,Sakhir,HAR,Toro Rosso,17,11,11,0,16,20,11
+2018,2,Sakhir,RAI,Ferrari,18,2,2,0,3,1,1
+2018,2,Sakhir,VER,Red Bull Racing,19,15,15,0,0,5,2
+2018,2,Sakhir,RIC,Red Bull Racing,20,4,5,0,1,6,3
+2018,3,Shanghai,RIC,Red Bull Racing,1,6,6,0,4,9,15
+2018,3,Shanghai,BOT,Mercedes,2,3,3,0,3,3,3
+2018,3,Shanghai,RAI,Ferrari,3,2,2,0,2,2,2
+2018,3,Shanghai,HAM,Mercedes,4,4,4,0,1,1,5
+2018,3,Shanghai,VER,Red Bull Racing,5,5,5,0,5,5,4
+2018,3,Shanghai,HUL,Renault,6,7,7,0,10,6,11
+2018,3,Shanghai,ALO,McLaren,7,13,13,0,12,10,12
+2018,3,Shanghai,VET,Ferrari,8,1,1,0,6,4,1
+2018,3,Shanghai,SAI,Renault,9,9,9,0,8,8,9
+2018,3,Shanghai,MAG,Haas F1 Team,10,11,11,0,7,7,6
+2018,3,Shanghai,OCO,Force India,11,12,12,0,14,13,8
+2018,3,Shanghai,PER,Force India,12,8,8,0,13,11,7
+2018,3,Shanghai,VAN,McLaren,13,14,14,0,18,14,13
+2018,3,Shanghai,STR,Williams,14,18,18,0,20,20,17
+2018,3,Shanghai,SIR,Williams,15,16,16,0,15,16,10
+2018,3,Shanghai,ERI,Sauber,16,20,20,0,19,17,19
+2018,3,Shanghai,GRO,Haas F1 Team,17,10,10,0,9,19,20
+2018,3,Shanghai,GAS,Toro Rosso,18,17,17,0,11,12,16
+2018,3,Shanghai,LEC,Sauber,19,19,19,0,17,18,18
+2018,3,Shanghai,HAR,Toro Rosso,20,15,15,0,16,15,14
+2018,4,Baku,HAM,Mercedes,1,2,2,0,4,5,2
+2018,4,Baku,RAI,Ferrari,2,6,6,0,15,2,3
+2018,4,Baku,PER,Force India,3,8,8,0,3,12,6
+2018,4,Baku,VET,Ferrari,4,1,1,0,10,11,1
+2018,4,Baku,SAI,Renault,5,9,10,0,20,8,16
+2018,4,Baku,LEC,Sauber,6,13,14,0,16,16,14
+2018,4,Baku,ALO,McLaren,7,12,13,0,7,6,11
+2018,4,Baku,STR,Williams,8,10,11,0,11,14,8
+2018,4,Baku,VAN,McLaren,9,16,16,0,19,19,18
+2018,4,Baku,HAR,Toro Rosso,10,19,19,0,12,18,20
+2018,4,Baku,ERI,Sauber,11,18,18,0,17,20,19
+2018,4,Baku,GAS,Toro Rosso,12,17,17,0,9,15,13
+2018,4,Baku,MAG,Haas F1 Team,13,15,15,0,18,9,7
+2018,4,Baku,BOT,Mercedes,14,3,3,0,1,4,5
+2018,4,Baku,GRO,Haas F1 Team,15,20,20,0,14,13,15
+2018,4,Baku,VER,Red Bull Racing,16,5,5,0,6,3,4
+2018,4,Baku,RIC,Red Bull Racing,17,4,4,0,2,1,12
+2018,4,Baku,HUL,Renault,18,14,9,0,13,10,17
+2018,4,Baku,OCO,Force India,19,7,7,0,5,7,9
+2018,4,Baku,SIR,Williams,20,11,12,0,8,17,10
+2018,5,Barcelona,HAM,Mercedes,1,1,1,0,2,1,1
+2018,5,Barcelona,BOT,Mercedes,2,2,2,0,1,5,2
+2018,5,Barcelona,VER,Red Bull Racing,3,5,5,0,4,3,12
+2018,5,Barcelona,VET,Ferrari,4,3,3,0,3,4,3
+2018,5,Barcelona,RIC,Red Bull Racing,5,6,6,0,7,2,5
+2018,5,Barcelona,MAG,Haas F1 Team,6,7,7,0,11,8,6
+2018,5,Barcelona,SAI,Renault,7,9,9,0,15,17,8
+2018,5,Barcelona,ALO,McLaren,8,8,8,0,6,12,9
+2018,5,Barcelona,PER,Force India,9,15,15,0,13,10,16
+2018,5,Barcelona,LEC,Sauber,10,14,14,0,12,16,15
+2018,5,Barcelona,STR,Williams,11,18,19,0,20,19,19
+2018,5,Barcelona,HAR,Toro Rosso,12,20,20,0,18,18,17
+2018,5,Barcelona,ERI,Sauber,13,17,17,0,14,15,18
+2018,5,Barcelona,SIR,Williams,14,19,18,0,0,20,20
+2018,5,Barcelona,VAN,McLaren,15,11,11,0,9,9,14
+2018,5,Barcelona,OCO,Force India,16,13,13,0,16,11,13
+2018,5,Barcelona,RAI,Ferrari,17,4,4,0,5,6,4
+2018,5,Barcelona,GRO,Haas F1 Team,18,10,10,0,8,7,7
+2018,5,Barcelona,GAS,Toro Rosso,19,12,12,0,10,14,10
+2018,5,Barcelona,HUL,Renault,20,16,16,0,17,13,11
+2018,6,Monte Carlo,RIC,Red Bull Racing,1,1,1,0,1,1,1
+2018,6,Monte Carlo,VET,Ferrari,2,2,2,0,4,3,3
+2018,6,Monte Carlo,HAM,Mercedes,3,3,3,0,3,4,5
+2018,6,Monte Carlo,RAI,Ferrari,4,4,4,0,5,5,4
+2018,6,Monte Carlo,BOT,Mercedes,5,5,5,0,7,6,6
+2018,6,Monte Carlo,OCO,Force India,6,6,6,0,11,13,12
+2018,6,Monte Carlo,GAS,Toro Rosso,7,10,10,0,14,14,8
+2018,6,Monte Carlo,HUL,Renault,8,11,11,0,13,7,14
+2018,6,Monte Carlo,VER,Red Bull Racing,9,20,20,0,2,2,2
+2018,6,Monte Carlo,SAI,Renault,10,8,8,0,6,10,9
+2018,6,Monte Carlo,ERI,Sauber,11,16,17,0,19,20,20
+2018,6,Monte Carlo,PER,Force India,12,9,9,0,8,12,13
+2018,6,Monte Carlo,MAG,Haas F1 Team,13,19,19,0,0,16,19
+2018,6,Monte Carlo,VAN,McLaren,14,12,12,0,15,8,11
+2018,6,Monte Carlo,GRO,Haas F1 Team,15,18,15,0,9,18,18
+2018,6,Monte Carlo,SIR,Williams,16,13,13,0,10,15,10
+2018,6,Monte Carlo,STR,Williams,17,17,18,0,18,19,16
+2018,6,Monte Carlo,LEC,Sauber,18,14,14,0,16,17,17
+2018,6,Monte Carlo,HAR,Toro Rosso,19,15,16,0,12,11,7
+2018,6,Monte Carlo,ALO,McLaren,20,7,7,0,17,9,15
+2018,7,Montréal,VET,Ferrari,1,1,1,0,4,5,2
+2018,7,Montréal,BOT,Mercedes,2,2,2,0,5,6,6
+2018,7,Montréal,VER,Red Bull Racing,3,3,3,0,1,1,1
+2018,7,Montréal,RIC,Red Bull Racing,4,6,6,0,3,3,5
+2018,7,Montréal,HAM,Mercedes,5,4,4,0,2,4,4
+2018,7,Montréal,RAI,Ferrari,6,5,5,0,6,2,3
+2018,7,Montréal,HUL,Renault,7,7,7,0,0,14,8
+2018,7,Montréal,SAI,Renault,8,9,9,0,8,17,14
+2018,7,Montréal,OCO,Force India,9,8,8,0,11,8,11
+2018,7,Montréal,LEC,Sauber,10,13,13,0,14,11,16
+2018,7,Montréal,GAS,Toro Rosso,11,16,16,0,10,18,15
+2018,7,Montréal,GRO,Haas F1 Team,12,20,20,0,12,7,9
+2018,7,Montréal,MAG,Haas F1 Team,13,11,11,0,15,13,17
+2018,7,Montréal,PER,Force India,14,10,10,0,0,9,7
+2018,7,Montréal,ERI,Sauber,15,19,19,0,13,15,19
+2018,7,Montréal,VAN,McLaren,16,15,15,0,9,16,10
+2018,7,Montréal,SIR,Williams,17,18,18,0,17,20,18
+2018,7,Montréal,ALO,McLaren,18,14,14,0,7,10,13
+2018,7,Montréal,HAR,Toro Rosso,19,12,12,0,16,12,12
+2018,7,Montréal,STR,Williams,20,17,17,0,18,19,20
+2018,8,Le Castellet,HAM,Mercedes,1,1,1,0,1,1,0
+2018,8,Le Castellet,VER,Red Bull Racing,2,4,4,0,7,3,0
+2018,8,Le Castellet,RAI,Ferrari,3,6,6,0,4,4,0
+2018,8,Le Castellet,RIC,Red Bull Racing,4,5,5,0,3,2,10
+2018,8,Le Castellet,VET,Ferrari,5,3,3,0,5,5,5
+2018,8,Le Castellet,MAG,Haas F1 Team,6,9,9,0,10,9,0
+2018,8,Le Castellet,BOT,Mercedes,7,2,2,0,2,7,1
+2018,8,Le Castellet,SAI,Renault,8,7,7,0,11,12,2
+2018,8,Le Castellet,HUL,Renault,9,12,12,0,18,11,0
+2018,8,Le Castellet,LEC,Sauber,10,8,8,0,13,14,3
+2018,8,Le Castellet,GRO,Haas F1 Team,11,10,10,0,6,6,0
+2018,8,Le Castellet,VAN,McLaren,12,17,18,0,19,13,6
+2018,8,Le Castellet,ERI,Sauber,13,15,15,0,14,0,8
+2018,8,Le Castellet,HAR,Toro Rosso,14,20,17,0,15,15,0
+2018,8,Le Castellet,SIR,Williams,15,18,19,0,20,18,0
+2018,8,Le Castellet,ALO,McLaren,16,16,16,0,16,8,4
+2018,8,Le Castellet,STR,Williams,17,19,20,0,17,17,0
+2018,8,Le Castellet,PER,Force India,18,13,13,0,9,19,9
+2018,8,Le Castellet,OCO,Force India,19,11,11,0,12,16,11
+2018,8,Le Castellet,GAS,Toro Rosso,20,14,14,0,8,10,7
+2018,9,Spielberg,VER,Red Bull Racing,1,4,5,0,3,5,5
+2018,9,Spielberg,RAI,Ferrari,2,3,4,0,6,6,4
+2018,9,Spielberg,VET,Ferrari,3,6,3,0,4,3,1
+2018,9,Spielberg,GRO,Haas F1 Team,4,5,6,0,7,7,7
+2018,9,Spielberg,MAG,Haas F1 Team,5,8,8,0,12,8,8
+2018,9,Spielberg,OCO,Force India,6,11,11,0,8,13,13
+2018,9,Spielberg,PER,Force India,7,16,17,0,14,18,15
+2018,9,Spielberg,ALO,McLaren,8,13,14,0,17,19,14
+2018,9,Spielberg,LEC,Sauber,9,18,13,0,9,12,10
+2018,9,Spielberg,ERI,Sauber,10,20,20,0,11,14,16
+2018,9,Spielberg,GAS,Toro Rosso,11,12,12,0,10,9,12
+2018,9,Spielberg,SAI,Renault,12,9,9,0,13,11,9
+2018,9,Spielberg,SIR,Williams,13,17,18,0,0,16,20
+2018,9,Spielberg,STR,Williams,14,14,15,0,16,20,19
+2018,9,Spielberg,VAN,McLaren,15,15,16,0,18,10,18
+2018,9,Spielberg,HAM,Mercedes,16,2,2,0,1,1,2
+2018,9,Spielberg,HAR,Toro Rosso,17,19,19,0,19,17,17
+2018,9,Spielberg,RIC,Red Bull Racing,18,7,7,0,5,4,6
+2018,9,Spielberg,BOT,Mercedes,19,1,1,0,2,2,3
+2018,9,Spielberg,HUL,Renault,20,10,10,0,15,15,11
+2018,10,Silverstone,VET,Ferrari,1,2,2,0,3,1,4
+2018,10,Silverstone,HAM,Mercedes,2,1,1,0,1,2,1
+2018,10,Silverstone,RAI,Ferrari,3,3,3,0,5,4,2
+2018,10,Silverstone,BOT,Mercedes,4,4,4,0,2,3,3
+2018,10,Silverstone,RIC,Red Bull Racing,5,6,6,0,4,5,6
+2018,10,Silverstone,HUL,Renault,6,11,11,0,18,7,14
+2018,10,Silverstone,OCO,Force India,7,10,10,0,9,8,11
+2018,10,Silverstone,ALO,McLaren,8,13,13,0,15,6,13
+2018,10,Silverstone,MAG,Haas F1 Team,9,7,7,0,14,12,8
+2018,10,Silverstone,PER,Force India,10,12,12,0,8,9,12
+2018,10,Silverstone,VAN,McLaren,11,17,17,0,17,17,18
+2018,10,Silverstone,STR,Williams,12,19,19,0,10,15,16
+2018,10,Silverstone,GAS,Toro Rosso,13,14,14,0,12,13,19
+2018,10,Silverstone,SIR,Williams,14,18,18,0,20,16,17
+2018,10,Silverstone,VER,Red Bull Racing,15,5,5,0,6,0,5
+2018,10,Silverstone,GRO,Haas F1 Team,16,8,8,0,7,0,9
+2018,10,Silverstone,SAI,Renault,17,16,16,0,16,11,15
+2018,10,Silverstone,ERI,Sauber,18,15,15,0,11,14,10
+2018,10,Silverstone,LEC,Sauber,19,9,9,0,13,10,7
+2018,10,Silverstone,HAR,Toro Rosso,20,0,20,0,19,18,0
+2018,11,Hockenheim,HAM,Mercedes,1,14,14,0,2,2,0
+2018,11,Hockenheim,BOT,Mercedes,2,2,2,0,5,3,0
+2018,11,Hockenheim,RAI,Ferrari,3,3,3,0,6,5,8
+2018,11,Hockenheim,VER,Red Bull Racing,4,4,4,0,3,1,0
+2018,11,Hockenheim,HUL,Renault,5,7,7,0,10,9,7
+2018,11,Hockenheim,GRO,Haas F1 Team,6,6,6,0,7,6,0
+2018,11,Hockenheim,PER,Force India,7,10,10,0,11,11,0
+2018,11,Hockenheim,OCO,Force India,8,15,16,0,0,10,10
+2018,11,Hockenheim,ERI,Sauber,9,13,13,0,0,14,2
+2018,11,Hockenheim,HAR,Toro Rosso,10,17,18,0,15,16,6
+2018,11,Hockenheim,MAG,Haas F1 Team,11,5,5,0,8,7,0
+2018,11,Hockenheim,SAI,Renault,12,8,8,0,14,12,0
+2018,11,Hockenheim,VAN,McLaren,13,19,20,0,20,20,0
+2018,11,Hockenheim,GAS,Toro Rosso,14,16,17,0,18,15,5
+2018,11,Hockenheim,LEC,Sauber,15,9,9,0,9,8,1
+2018,11,Hockenheim,ALO,McLaren,16,11,11,0,12,17,0
+2018,11,Hockenheim,STR,Williams,17,18,19,0,13,18,9
+2018,11,Hockenheim,VET,Ferrari,18,1,1,0,4,4,4
+2018,11,Hockenheim,SIR,Williams,19,12,12,0,16,19,3
+2018,11,Hockenheim,RIC,Red Bull Racing,20,20,15,0,1,13,0
+2018,12,Budapest,HAM,Mercedes,1,1,1,0,5,5,4
+2018,12,Budapest,VET,Ferrari,2,4,4,0,2,1,1
+2018,12,Budapest,RAI,Ferrari,3,3,3,0,4,4,3
+2018,12,Budapest,RIC,Red Bull Racing,4,12,12,0,1,3,5
+2018,12,Budapest,BOT,Mercedes,5,2,2,0,6,6,2
+2018,12,Budapest,GAS,Toro Rosso,6,6,6,0,11,9,10
+2018,12,Budapest,MAG,Haas F1 Team,7,9,9,0,10,13,11
+2018,12,Budapest,ALO,McLaren,8,11,11,0,12,12,14
+2018,12,Budapest,SAI,Renault,9,5,5,0,9,8,7
+2018,12,Budapest,GRO,Haas F1 Team,10,10,10,0,7,7,9
+2018,12,Budapest,HAR,Toro Rosso,11,8,8,0,13,15,12
+2018,12,Budapest,HUL,Renault,12,13,13,0,8,14,8
+2018,12,Budapest,OCO,Force India,13,18,18,0,15,10,15
+2018,12,Budapest,PER,Force India,14,19,19,0,17,11,19
+2018,12,Budapest,ERI,Sauber,15,14,14,0,20,16,18
+2018,12,Budapest,SIR,Williams,16,20,20,0,19,20,16
+2018,12,Budapest,STR,Williams,17,15,15,0,14,18,20
+2018,12,Budapest,VAN,McLaren,18,16,16,0,16,19,17
+2018,12,Budapest,VER,Red Bull Racing,19,7,7,0,3,2,6
+2018,12,Budapest,LEC,Sauber,20,17,17,0,0,17,13
+2018,13,Spa-Francorchamps,VET,Ferrari,1,2,2,0,1,5,1
+2018,13,Spa-Francorchamps,HAM,Mercedes,2,1,1,0,3,2,3
+2018,13,Spa-Francorchamps,VER,Red Bull Racing,3,7,7,0,2,4,5
+2018,13,Spa-Francorchamps,BOT,Mercedes,4,19,10,0,5,3,4
+2018,13,Spa-Francorchamps,PER,Racing Point,5,4,4,0,9,7,8
+2018,13,Spa-Francorchamps,OCO,Racing Point,6,3,3,0,7,13,10
+2018,13,Spa-Francorchamps,GRO,Haas F1 Team,7,5,5,0,12,12,12
+2018,13,Spa-Francorchamps,MAG,Haas F1 Team,8,9,9,0,17,14,14
+2018,13,Spa-Francorchamps,GAS,Toro Rosso,9,10,11,0,11,15,15
+2018,13,Spa-Francorchamps,ERI,Sauber,10,13,14,0,14,9,11
+2018,13,Spa-Francorchamps,SAI,Renault,11,14,16,0,10,8,13
+2018,13,Spa-Francorchamps,SIR,Williams,12,16,18,0,19,18,18
+2018,13,Spa-Francorchamps,STR,Williams,13,17,19,0,16,19,17
+2018,13,Spa-Francorchamps,HAR,Toro Rosso,14,11,12,0,15,17,16
+2018,13,Spa-Francorchamps,VAN,McLaren,15,18,20,0,20,20,20
+2018,13,Spa-Francorchamps,RIC,Red Bull Racing,16,8,8,0,6,6,6
+2018,13,Spa-Francorchamps,RAI,Ferrari,17,6,6,0,4,1,2
+2018,13,Spa-Francorchamps,LEC,Sauber,18,12,13,0,13,10,7
+2018,13,Spa-Francorchamps,ALO,McLaren,19,15,17,0,0,16,19
+2018,13,Spa-Francorchamps,HUL,Renault,20,20,15,0,8,11,9
+2018,14,Monza,HAM,Mercedes,1,3,3,0,11,3,2
+2018,14,Monza,RAI,Ferrari,2,1,1,0,2,2,3
+2018,14,Monza,BOT,Mercedes,3,4,4,0,10,4,4
+2018,14,Monza,VET,Ferrari,4,2,2,0,17,1,1
+2018,14,Monza,VER,Red Bull Racing,5,5,5,0,7,5,5
+2018,14,Monza,OCO,Racing Point,6,8,8,0,3,7,7
+2018,14,Monza,PER,Racing Point,7,14,16,0,1,8,11
+2018,14,Monza,SAI,Renault,8,7,7,0,8,12,13
+2018,14,Monza,STR,Williams,9,10,10,0,19,17,15
+2018,14,Monza,SIR,Williams,10,12,12,0,18,15,14
+2018,14,Monza,LEC,Sauber,11,15,17,0,12,9,9
+2018,14,Monza,VAN,McLaren,12,17,20,0,0,19,18
+2018,14,Monza,HUL,Renault,13,20,14,0,9,10,19
+2018,14,Monza,GAS,Toro Rosso,14,9,9,0,6,14,12
+2018,14,Monza,ERI,Sauber,15,18,19,0,16,0,16
+2018,14,Monza,MAG,Haas F1 Team,16,11,11,0,13,13,6
+2018,14,Monza,RIC,Red Bull Racing,17,19,15,0,5,6,8
+2018,14,Monza,ALO,McLaren,18,13,13,0,14,18,17
+2018,14,Monza,HAR,Toro Rosso,19,16,18,0,4,16,20
+2018,14,Monza,GRO,Haas F1 Team,20,6,6,0,15,11,10
+2018,15,Singapore,HAM,Mercedes,1,1,1,0,6,2,3
+2018,15,Singapore,VER,Red Bull Racing,2,2,2,0,2,3,6
+2018,15,Singapore,VET,Ferrari,3,3,3,0,3,9,1
+2018,15,Singapore,BOT,Mercedes,4,4,4,0,8,5,4
+2018,15,Singapore,RAI,Ferrari,5,5,5,0,4,1,2
+2018,15,Singapore,RIC,Red Bull Racing,6,6,6,0,1,4,5
+2018,15,Singapore,ALO,McLaren,7,11,11,0,14,8,10
+2018,15,Singapore,SAI,Renault,8,12,12,0,7,6,13
+2018,15,Singapore,LEC,Sauber,9,13,13,0,9,14,16
+2018,15,Singapore,HUL,Renault,10,10,10,0,5,10,11
+2018,15,Singapore,ERI,Sauber,11,14,14,0,11,12,19
+2018,15,Singapore,VAN,McLaren,12,18,18,0,20,16,15
+2018,15,Singapore,GAS,Toro Rosso,13,15,15,0,16,18,14
+2018,15,Singapore,STR,Williams,14,20,20,0,18,19,20
+2018,15,Singapore,GRO,Haas F1 Team,15,8,8,0,10,7,7
+2018,15,Singapore,PER,Racing Point,16,7,7,0,12,11,9
+2018,15,Singapore,HAR,Toro Rosso,17,17,17,0,17,17,17
+2018,15,Singapore,MAG,Haas F1 Team,18,16,16,0,13,15,12
+2018,15,Singapore,SIR,Williams,19,19,19,0,19,20,18
+2018,15,Singapore,OCO,Racing Point,20,9,9,0,15,13,8
+2018,16,Sochi,HAM,Mercedes,1,2,2,0,3,1,1
+2018,16,Sochi,BOT,Mercedes,2,1,1,0,4,2,2
+2018,16,Sochi,VET,Ferrari,3,3,3,0,1,5,3
+2018,16,Sochi,RAI,Ferrari,4,4,4,0,7,6,4
+2018,16,Sochi,VER,Red Bull Racing,5,19,11,0,2,3,5
+2018,16,Sochi,RIC,Red Bull Racing,6,18,12,0,5,4,6
+2018,16,Sochi,LEC,Sauber,7,7,7,0,14,13,7
+2018,16,Sochi,MAG,Haas F1 Team,8,5,5,0,8,11,9
+2018,16,Sochi,OCO,Racing Point,9,6,6,0,6,9,8
+2018,16,Sochi,PER,Racing Point,10,8,8,0,0,7,10
+2018,16,Sochi,GRO,Haas F1 Team,11,9,9,0,11,15,13
+2018,16,Sochi,HUL,Renault,12,12,15,0,9,14,14
+2018,16,Sochi,ERI,Sauber,13,10,10,0,0,10,15
+2018,16,Sochi,ALO,McLaren,14,16,17,0,0,17,20
+2018,16,Sochi,STR,Williams,15,14,20,0,20,20,18
+2018,16,Sochi,VAN,McLaren,16,15,19,0,16,18,19
+2018,16,Sochi,SAI,Renault,17,11,14,0,0,12,11
+2018,16,Sochi,SIR,Williams,18,13,18,0,18,19,17
+2018,16,Sochi,GAS,Toro Rosso,19,17,13,0,12,8,12
+2018,16,Sochi,HAR,Toro Rosso,20,20,16,0,19,16,16
+2018,17,Suzuka,HAM,Mercedes,1,1,1,0,1,1,1
+2018,17,Suzuka,BOT,Mercedes,2,2,2,0,2,2,5
+2018,17,Suzuka,VER,Red Bull Racing,3,3,3,0,6,4,4
+2018,17,Suzuka,RIC,Red Bull Racing,4,15,15,0,3,6,6
+2018,17,Suzuka,RAI,Ferrari,5,4,4,0,4,5,3
+2018,17,Suzuka,VET,Ferrari,6,8,9,0,5,3,2
+2018,17,Suzuka,PER,Racing Point,7,9,10,0,13,11,8
+2018,17,Suzuka,GRO,Haas F1 Team,8,5,5,0,8,8,11
+2018,17,Suzuka,OCO,Racing Point,9,11,8,0,7,7,7
+2018,17,Suzuka,SAI,Renault,10,13,13,0,12,14,9
+2018,17,Suzuka,GAS,Toro Rosso,11,7,7,0,11,13,20
+2018,17,Suzuka,ERI,Sauber,12,20,20,0,10,9,16
+2018,17,Suzuka,HAR,Toro Rosso,13,6,6,0,17,10,13
+2018,17,Suzuka,ALO,McLaren,14,18,18,0,18,17,17
+2018,17,Suzuka,VAN,McLaren,15,19,19,0,0,20,19
+2018,17,Suzuka,SIR,Williams,16,17,17,0,19,18,18
+2018,17,Suzuka,STR,Williams,17,14,14,0,16,19,14
+2018,17,Suzuka,LEC,Sauber,18,10,11,0,9,15,12
+2018,17,Suzuka,HUL,Renault,19,16,16,0,15,12,15
+2018,17,Suzuka,MAG,Haas F1 Team,20,12,12,0,14,16,10
+2018,18,Austin,RAI,Ferrari,1,2,3,0,6,9,2
+2018,18,Austin,VER,Red Bull Racing,2,18,15,0,3,3,5
+2018,18,Austin,HAM,Mercedes,3,1,1,0,1,1,3
+2018,18,Austin,VET,Ferrari,4,5,2,0,5,10,1
+2018,18,Austin,BOT,Mercedes,5,3,4,0,2,0,4
+2018,18,Austin,HUL,Renault,6,7,7,0,18,5,14
+2018,18,Austin,SAI,Renault,7,11,11,0,7,12,9
+2018,18,Austin,PER,Racing Point,8,10,10,0,14,14,8
+2018,18,Austin,HAR,Toro Rosso,9,20,14,0,0,6,19
+2018,18,Austin,ERI,Sauber,10,16,19,0,10,7,15
+2018,18,Austin,VAN,McLaren,11,17,20,0,0,8,18
+2018,18,Austin,GAS,Toro Rosso,12,19,13,0,13,2,12
+2018,18,Austin,SIR,Williams,13,14,17,0,15,16,17
+2018,18,Austin,STR,Williams,14,15,18,0,19,13,16
+2018,18,Austin,LEC,Sauber,15,9,9,0,9,11,7
+2018,18,Austin,RIC,Red Bull Racing,16,4,5,0,4,0,6
+2018,18,Austin,GRO,Haas F1 Team,17,8,8,0,8,0,10
+2018,18,Austin,ALO,McLaren,18,13,16,0,11,4,20
+2018,18,Austin,OCO,Racing Point,19,6,6,0,17,15,11
+2018,18,Austin,MAG,Haas F1 Team,20,12,12,0,16,0,13
+2018,19,Mexico City,VER,Red Bull Racing,1,2,2,0,1,1,1
+2018,19,Mexico City,VET,Ferrari,2,4,4,0,7,4,3
+2018,19,Mexico City,RAI,Ferrari,3,6,6,0,8,8,5
+2018,19,Mexico City,HAM,Mercedes,4,3,3,0,5,7,2
+2018,19,Mexico City,BOT,Mercedes,5,5,5,0,6,9,19
+2018,19,Mexico City,HUL,Renault,6,7,7,0,4,5,10
+2018,19,Mexico City,LEC,Sauber,7,9,9,0,0,13,6
+2018,19,Mexico City,VAN,McLaren,8,15,17,0,16,15,14
+2018,19,Mexico City,ERI,Sauber,9,10,10,0,14,17,9
+2018,19,Mexico City,GAS,Toro Rosso,10,20,15,0,0,14,8
+2018,19,Mexico City,OCO,Racing Point,11,11,11,0,0,11,11
+2018,19,Mexico City,STR,Williams,12,17,19,0,19,16,18
+2018,19,Mexico City,SIR,Williams,13,19,20,0,18,18,17
+2018,19,Mexico City,HAR,Toro Rosso,14,14,14,0,9,6,16
+2018,19,Mexico City,MAG,Haas F1 Team,15,16,18,0,17,20,0
+2018,19,Mexico City,GRO,Haas F1 Team,16,18,16,0,13,12,13
+2018,19,Mexico City,RIC,Red Bull Racing,17,1,1,0,2,2,4
+2018,19,Mexico City,PER,Racing Point,18,13,13,0,11,10,12
+2018,19,Mexico City,SAI,Renault,19,8,8,0,3,3,7
+2018,19,Mexico City,ALO,McLaren,20,12,12,0,0,19,15
+2018,20,São Paulo,HAM,Mercedes,1,1,1,0,3,2,2
+2018,20,São Paulo,VER,Red Bull Racing,2,5,5,0,1,5,5
+2018,20,São Paulo,RAI,Ferrari,3,4,4,0,5,6,4
+2018,20,São Paulo,RIC,Red Bull Racing,4,11,6,0,4,4,6
+2018,20,São Paulo,BOT,Mercedes,5,3,3,0,6,1,3
+2018,20,São Paulo,VET,Ferrari,6,2,2,0,2,3,1
+2018,20,São Paulo,LEC,Sauber,7,7,8,0,9,8,10
+2018,20,São Paulo,GRO,Haas F1 Team,8,8,9,0,7,7,8
+2018,20,São Paulo,MAG,Haas F1 Team,9,10,11,0,8,9,7
+2018,20,São Paulo,PER,Racing Point,10,12,12,0,0,11,19
+2018,20,São Paulo,HAR,Toro Rosso,11,16,17,0,18,19,16
+2018,20,São Paulo,SAI,Renault,12,15,16,0,11,14,14
+2018,20,São Paulo,GAS,Toro Rosso,13,9,10,0,15,12,9
+2018,20,São Paulo,VAN,McLaren,14,20,20,0,19,17,20
+2018,20,São Paulo,OCO,Racing Point,15,18,13,0,10,10,12
+2018,20,São Paulo,SIR,Williams,16,14,15,0,17,16,15
+2018,20,São Paulo,ALO,McLaren,17,17,18,0,0,13,18
+2018,20,São Paulo,STR,Williams,18,19,19,0,14,18,17
+2018,20,São Paulo,HUL,Renault,19,13,14,0,12,20,11
+2018,20,São Paulo,ERI,Sauber,20,6,7,0,0,15,13
+2018,21,Yas Marina,HAM,Mercedes,1,1,1,0,4,4,1
+2018,21,Yas Marina,VET,Ferrari,2,3,3,0,8,6,3
+2018,21,Yas Marina,VER,Red Bull Racing,3,6,6,0,1,2,4
+2018,21,Yas Marina,RIC,Red Bull Racing,4,5,5,0,2,3,6
+2018,21,Yas Marina,BOT,Mercedes,5,2,2,0,3,1,5
+2018,21,Yas Marina,SAI,Renault,6,11,11,0,9,12,9
+2018,21,Yas Marina,LEC,Sauber,7,8,8,0,0,15,13
+2018,21,Yas Marina,PER,Racing Point,8,14,14,0,13,14,11
+2018,21,Yas Marina,GRO,Haas F1 Team,9,7,7,0,10,7,7
+2018,21,Yas Marina,MAG,Haas F1 Team,10,13,13,0,6,9,14
+2018,21,Yas Marina,ALO,McLaren,11,15,15,0,19,13,16
+2018,21,Yas Marina,HAR,Toro Rosso,12,16,16,0,14,16,12
+2018,21,Yas Marina,STR,Williams,13,20,20,0,15,19,18
+2018,21,Yas Marina,VAN,McLaren,14,18,18,0,18,18,19
+2018,21,Yas Marina,SIR,Williams,15,19,19,0,0,20,20
+2018,21,Yas Marina,GAS,Toro Rosso,16,17,17,0,11,11,15
+2018,21,Yas Marina,OCO,Racing Point,17,9,9,0,5,10,10
+2018,21,Yas Marina,ERI,Sauber,18,12,12,0,17,17,17
+2018,21,Yas Marina,RAI,Ferrari,19,4,4,0,7,5,2
+2018,21,Yas Marina,HUL,Renault,20,10,10,0,12,8,8

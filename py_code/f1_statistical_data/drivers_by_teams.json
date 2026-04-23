@@ -1,0 +1,14 @@
+{
+    "Red Bull Racing": ["VER", "HAD"],
+    "Mercedes": ["RUS", "ANT"],
+    "Ferrari": ["LEC", "HAM"],
+    "McLaren": ["NOR", "PIA"],
+    "Aston Martin": ["ALO", "STR"],
+    "Alpine": ["COL", "GAS"],
+    "Williams": ["ALB", "SAI"],
+    "Haas F1 Team": ["OCO", "BEA"],
+    "Racing Bulls": ["LAW", "LIN"],
+    "Sauber": ["HUL", "BOR"],
+    "Audi": ["HUL", "BOR"],
+    "Cadillac": ["BOT", "PER"]
+}
